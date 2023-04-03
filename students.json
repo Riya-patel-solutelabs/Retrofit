@@ -1,0 +1,25 @@
+{
+  "students":[
+  {
+    "id": 1,
+    "name": "Abhishek Patel",
+    "rollNo": "101",
+    "branch": "Computer",
+    "email": "abhishek@example.com"
+  },
+    {
+      "id": 2,
+      "name": "Charol Wales",
+      "rollNo": "102",
+      "branch": "Electrical",
+      "email": "charol@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Dolly Patel",
+      "rollNo": "103",
+      "branch": "Mechanical",
+      "email": "dolly@example.com"
+    }
+  ]
+}
